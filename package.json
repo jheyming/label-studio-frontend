@@ -18,7 +18,8 @@
     "build/",
     "images/",
     "CODE_OF_CONDUCT.md",
-    "CONTRIBUTING.md"
+    "CONTRIBUTING.md",
+    "scripts"
   ],
   "size-limit": [
     {
